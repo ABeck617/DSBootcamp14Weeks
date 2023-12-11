@@ -2,5 +2,5 @@
 
 ## Day 1: Types, Constants & Variables
 
-- [Day 1 Challenge]
+- [Day 1 Challenge] (https://github.com/ABeck617/DSBootcamp14Weeks/blob/main/Day1.Playgrounds/day01.pdf)
 - [Day 1 Solution]
