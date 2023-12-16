@@ -8,3 +8,13 @@
 ## Day 2: Operators & Conditionals
 * [Day 2 Challenge] (https://github.com/ABeck617/DSBootcamp14Weeks/blob/main/Day2.Playgrounds/day02.pdf)
 * [Day 2 Solution]  (https://github.com/ABeck617/DSBootcamp14Weeks/blob/main/Day2.Playgrounds/Login.playground/Contents.swift)
+
+
+## Day 3: More Conditionals
+* [Day 3 Challenge]
+* [Day 3 Solution]
+
+## Day 4: Switches
+* [Day 4 Challenge]
+* [Day 4 Solution]
+
