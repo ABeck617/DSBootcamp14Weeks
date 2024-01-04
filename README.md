@@ -12,7 +12,7 @@
 
 ## Day 3: More Conditionals
 * [Day 3 Challenge] (https://github.com/ABeck617/DSBootcamp14Weeks/blob/main/Day3.Playgrounds/day03%20(2).pdf)
-* [Day 3 Solution]
+* [Day 3 Solution] (https://github.com/ABeck617/DSBootcamp14Weeks/blob/main/Day3.Playgrounds/Day%203/OnlineTrackerChallenge.playground/Contents.swift)
 
 ## Day 4: Switches
 * [Day 4 Challenge]
